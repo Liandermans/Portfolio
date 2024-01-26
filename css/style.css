@@ -104,4 +104,10 @@ a:hover {
   h2 {
     font-size: 35px;
   }
+  .index-img {
+    display: none;
+  }
+  .weather-row {
+    margin-bottom: 0 !important;
+  }
 }
