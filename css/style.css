@@ -99,9 +99,9 @@ a:hover {
 
 @media (max-width: 500px) {
   h1 {
-    font-size: 50px;
+    font-size: 45px;
   }
   h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
 }
